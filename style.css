@@ -1,4 +1,26 @@
 body {
-    background: peru;
+    background: #5b6e5a;
+    color: antiquewhite;
+    padding-left: 450px;
 }
 
+h1 {
+    font-size: 60px;
+}
+
+p {
+    font-size: 20px;
+    padding-right: 300px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul.class {
+    list-style-type: none;
+}
